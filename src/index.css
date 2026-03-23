@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Inter', sans-serif;
+  --color-dark-blue: #1A5276;
+  --color-dark-blue-hover: #154360;
+  --color-steel-blue: #6B8FA3;
+  --color-steel-blue-light: #B8D4E3;
+  --color-gray-700: #374151;
+  --color-gray-100: #F3F4F6;
+  --color-gray-50: #F9FAFB;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
